@@ -5,7 +5,7 @@ namespace SchamsNet\AwsGettingStarted\Hooks;
  * TYPO3 Extension "AWS Getting Started"
  *
  * Author: Michael Schams <schams.net>
- * https://typo3-on-aws.org
+ * https://t3rrific.com
  */
 
 /**

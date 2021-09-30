@@ -2,7 +2,7 @@
  * TYPO3 Extension "AWS Getting Started"
  *
  * Author: Michael Schams <schams.net>
- * https://typo3-on-aws.org
+ * https://t3rrific.com
  */
 
 $('#navbar a').click(function(e) { e.preventDefault(); $('.navbar-collapse').collapse('hide'); $(this).tab('show'); });
